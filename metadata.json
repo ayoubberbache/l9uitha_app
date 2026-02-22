@@ -1,0 +1,7 @@
+{
+  "name": "L9uitha.re2sd",
+  "description": "For Higher National School RE2SD Students. A cartoonic lost and found platform with AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
